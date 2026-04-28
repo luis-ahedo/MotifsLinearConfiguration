@@ -11,13 +11,19 @@ File Plot_MS_Static_All_Cases_V3 plots the sync chart
 Files:
 
 Main_RMS_StaticDynamicChainV2
+
 Main_RMS_StaticDynamicMixedSlaveV2
+
 Main_RMS_StaticDynamicMixedV2
+
 Main_RMS_StaticDynamicRelayV2
 
 Main_RMS_StaticChainV2
+
 Main_RMS_StaticMixedSlaveV2
+
 Main_RMS_StaticMixedV2
+
 Main_RMS_StaticRelayV2
 
 computed the sync chart based on the RMSE
